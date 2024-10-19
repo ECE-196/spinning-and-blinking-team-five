@@ -1,0 +1,8 @@
+/Users/drew/GitHub/spinning-and-blinking-team-five/firmware/target/xtensa-esp32s3-none-elf/debug/deps/libembassy_usb_synopsys_otg-d4989355df7e4a95.rmeta: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md
+
+/Users/drew/GitHub/spinning-and-blinking-team-five/firmware/target/xtensa-esp32s3-none-elf/debug/deps/embassy_usb_synopsys_otg-d4989355df7e4a95.d: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md
+
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/lib.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/fmt.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/otg_v1.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-synopsys-otg-0.1.0/src/../README.md:

@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/drew/GitHub/spinning-and-blinking-team-five/firmware/target/xtensa-esp32s3-none-elf/release/build/esp32s3-ab7875c5a559f56d/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
